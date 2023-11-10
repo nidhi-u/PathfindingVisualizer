@@ -1,0 +1,72 @@
+﻿  AStar.cpp
+D:\Games\PathfindingVisualizer\Node.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BFS.cpp
+D:\Games\PathfindingVisualizer\Node.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Dijkstra.cpp
+D:\Games\PathfindingVisualizer\Node.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Game.cpp
+D:\Games\PathfindingVisualizer\Node.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Games\PathfindingVisualizer\Game.cpp(71,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(71,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(79,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(79,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(86,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(86,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(89,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(89,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(93,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(93,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(101,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(101,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(104,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(104,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(108,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(108,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(114,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(114,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(117,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(117,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(121,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(121,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(128,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(128,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(133,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(133,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(135,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Games\PathfindingVisualizer\Game.cpp(135,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Games\PathfindingVisualizer\Game.cpp(140,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(140,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(146,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(146,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(150,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(150,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(312,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Games\PathfindingVisualizer\Game.cpp(312,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Games\PathfindingVisualizer\Game.cpp(313,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Games\PathfindingVisualizer\Game.cpp(313,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+D:\Games\PathfindingVisualizer\Node.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Node.cpp
+D:\Games\PathfindingVisualizer\Node.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  150 of 439 functions (34.2%) were compiled, the rest were copied from previous compilation.
+    114 functions were new in current compilation
+    78 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PathfindingVisualizer.vcxproj -> D:\Games\PathfindingVisualizer\x64\Release\PathfindingVisualizer.exe
